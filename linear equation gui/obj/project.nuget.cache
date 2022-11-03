@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "76YwNGI6ez0DY4yNyFJXk+gaRHGBB/QMbOmqdJNCZTSDg+WFcrhSlJo7Lea38iAeyEksoq/b0S/1hZvk/z33hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amgad\\source\\repos\\linear equation gui\\linear equation gui\\linear equation gui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amgad\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\Amgad\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
